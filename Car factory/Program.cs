@@ -6,6 +6,7 @@ using System.Windows.Forms;
 
 namespace Car_factory
 {
+
     static class Program
     {
         /// <summary>
@@ -20,5 +21,5 @@ namespace Car_factory
 
 
         }
-    }
+    }  
 }
